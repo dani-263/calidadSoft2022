@@ -1,0 +1,19 @@
+Found a 4 line (29 tokens) duplication in the following files: 
+Starting at line 111 of C:\Users\Pc\eclipse-workspace\Proyecto\src\netflix\Principal.java
+Starting at line 117 of C:\Users\Pc\eclipse-workspace\Proyecto\src\netflix\Principal.java
+
+		if(arrayPeliculas.get(i).contenidoReproducido() == true)
+		{
+		System.out.println("\t___________________________________");
+		System.out.println("\t " + arrayPeliculas.get(i).getTituloVideo());
+=====================================================================
+Found a 6 line (25 tokens) duplication in the following files: 
+Starting at line 69 of C:\Users\Pc\eclipse-workspace\Proyecto\src\netflix\Principal.java
+Starting at line 77 of C:\Users\Pc\eclipse-workspace\Proyecto\src\netflix\Principal.java
+
+		System.out.println("\n"+ arrayPeliculas.get(i).toString());
+		System.out.println("\t________________________________");
+		}
+		
+		//Se muestra la información relativa a las series del catálogo.
+		System.out.println("\nSERIES:");
