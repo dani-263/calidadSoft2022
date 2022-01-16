@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"netflix","l":"CriterioAntiguedadPelicula"},{"p":"netflix","l":"Pelicula"},{"p":"netflix","l":"Principal"},{"p":"netflix","l":"Serie"},{"p":"netflix","l":"Test"},{"p":"netflix","l":"Usuario"},{"p":"netflix","l":"Video"}]
